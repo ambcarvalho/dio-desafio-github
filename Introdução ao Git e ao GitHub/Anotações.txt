@@ -1,0 +1,3 @@
+Git (https://git-scm.com/)
+
+O Git Bash é um terminal estendido para otimizar o uso do Git e o Git GUI é o Git Bash com uma interface gráfica.
